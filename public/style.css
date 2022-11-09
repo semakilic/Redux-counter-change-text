@@ -1,0 +1,45 @@
+.btn-amount-style{
+    background-color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    color: #000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.btn-change{
+    background-color: #226e18;
+    color: white;
+    border: 1px solid #226e18;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 5px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin-left: -5px;
+}
+.mt-2{
+    margin-top: 1rem !important;
+}
+input{
+    border: 1px solid #666;
+    border-right: 0px solid #666;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.text-bold{
+    font-weight: 600;
+    font-size: 16px;
+}
